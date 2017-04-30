@@ -10,7 +10,7 @@ h1{
   color: white
 }
 
-a {
+nav a {
   font-family: Helvetica;
   font-size: 18px;
   color: white
@@ -45,11 +45,15 @@ h4 {
   color: white
 }
 
-footer {
+.footer {
   display: block;
   font-family: Helvetica;
   font-size: 11px;
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.footer a {
+  color: white;
 }
