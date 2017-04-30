@@ -1,0 +1,55 @@
+html {
+  text-align: center;
+
+}
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white
+}
+
+nav {
+  background-image: url("/Users/laurenkeirsey/Design/Freelance/Web/Projects/BroadwayDesign/resources/images/the-flatiron-building.png");
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+h4 {
+  background-image: url("/Users/laurenkeirsey/Design/Freelance/Web/Projects/BroadwayDesign/resources/images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white
+}
+
+footer {
+  display: block;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
